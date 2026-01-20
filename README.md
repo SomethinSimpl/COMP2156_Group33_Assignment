@@ -1,12 +1,27 @@
 # COMP2156 - Group Assignment 1
 
-Repository for COMP2156 DevOps group assignment.
-
-## Group Members
-- (add names + student IDs)
+## Group Details
+- Group: 33
+- Members:
+  - Clayton Megna (101571315)
+  - Member 2: (StudentID)
+  - Member 3: (StudentID)
+  - Member 4: (StudentID)
 
 ## Branch Naming
-- STUDENTID-Name
+- STUDENTID-Name  
+    - 101571315-ClaytonMegna
 
-## Notes
-- Work will be completed using branches and pull requests.
+## Requirements (Per Member)
+- Minimum 10 commits
+- Create 3 files:
+  - studentid_gb.txt
+  - studentid_devops.txt
+  - studentid_sdlc.txt
+
+## Workflow
+1. Create your branch
+2. Work locally + commit often
+3. Push branch
+4. Open PR to main
+5. Resolve conflicts if any, then merge
