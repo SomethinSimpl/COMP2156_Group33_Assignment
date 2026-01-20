@@ -1,0 +1,21 @@
+name: COMP2156 CI Check
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+    branches: ["main"]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Verify repository structure
+        run: |
+          echo "Checking for key files..."
+          ls -la
+          test -f README.md
+          test -f CONTRIBUTING.md
