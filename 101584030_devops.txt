@@ -1,1 +1,1 @@
-Add initial DevOps course overview
+COMP 2156 introduces the core concepts and practices used in DevOps-focused system administration.
