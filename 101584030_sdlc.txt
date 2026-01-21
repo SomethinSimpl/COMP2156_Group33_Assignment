@@ -1,1 +1,1 @@
-Add initial SDLC and DevOps integration overview
+Learning DevOps principles is essential in the software development life cycle because it helps bridge the gap between development and operations teams.
