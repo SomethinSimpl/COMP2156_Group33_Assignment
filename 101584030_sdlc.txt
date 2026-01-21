@@ -1,1 +1,1 @@
-Learning DevOps principles is essential in the software development life cycle because it helps bridge the gap between development and operations teams.
+Understanding DevOps within the software development life cycle helps explain how planning, development, testing, and deployment are connected rather than treated as separate steps.
