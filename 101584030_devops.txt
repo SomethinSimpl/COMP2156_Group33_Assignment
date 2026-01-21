@@ -1,1 +1,1 @@
-COMP 2156 introduces the core concepts and practices used in DevOps-focused system administration.
+COMP 2156 introduces the core concepts and practices used in DevOps-focused system administration. The course emphasizes tools such as version control, automation, and CI/CD workflows to improve how software and infrastructure are built, tested, and deployed.
