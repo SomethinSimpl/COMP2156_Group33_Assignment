@@ -1,3 +1,5 @@
 DevOps supports the SDLC by improving collaboration between development and operations.
 CI/CD automation helps teams test changes quickly and deploy updates consistently.
 Monitoring and logging provide feedback after release so teams can fix issues and improve future iterations.
+SDLC is a structured process for planning, building, testing, deploying, and maintaining software.
+DevOps supports the SDLC with CI/CD automation and faster feedback.
