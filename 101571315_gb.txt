@@ -5,4 +5,6 @@ College: George Brown College
 Program: T191 Computer System Technician
 Campus: Casa Loma
 
-Casa Loma campus has five buildings and is situated on the stretch of Kendal Avenue between Davenport Road and MacPherson Avenue
+George Brown College is a public college located in Toronto, Ontario.
+It offers programs in technology, business, health sciences, and more.
+Hands-on learning and practical labs are a key part of many programs.

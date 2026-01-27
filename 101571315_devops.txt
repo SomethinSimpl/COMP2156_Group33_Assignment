@@ -2,3 +2,5 @@ COMP2156 - DevOps
 This course covers DevOps best practices, tools and technology to help us become equiped for future career opportunities.
 Our professor is Pritesh Patel and the course is involved in the T191 Computer System Technician course at George Brown College.
 DevOps focuses on collaboration and automation to deliver software faster and more reliably.
+CI helps catch errors early by running checks automatically on each push/PR.
+CD can automate deployments after tests pass, making releases faster.
