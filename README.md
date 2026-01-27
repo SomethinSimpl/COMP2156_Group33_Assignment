@@ -4,13 +4,14 @@
 - Group: 33
 - Members:
   - Clayton Megna (101571315)
-  - Member 2: (StudentID)
+  - Eric Crowley: (101584030)
   - Member 3: (StudentID)
   - Member 4: (StudentID)
 
 ## Branch Naming
 - STUDENTID-Name  
     - 101571315-ClaytonMegna
+    - 101584030-EricCrowley
 
 ## Requirements (Per Member)
 - Minimum 10 commits
