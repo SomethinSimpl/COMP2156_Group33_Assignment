@@ -1,3 +1,6 @@
 DevOps plays an important role in the Software Development Life Cycle (SDLC). 
 In traditional development models, developers and operations teams often worked separately, 
 which sometimes caused delays or miscommunication.
+
+DevOps helps bridge that gap by encouraging collaboration, automation, and continuous improvement. 
+Using tools like Git and CI/CD pipelines allows teams to deploy updates more frequently and reliably.
