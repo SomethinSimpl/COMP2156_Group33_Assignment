@@ -8,3 +8,6 @@ and organization are when multiple people are working on the same project.
 
 The course also introduces continuous integration tools like GitHub Actions, 
 which help automate tasks and improve workflow efficiency.
+
+Overall, this course gives students a better understanding of how development 
+and operations work together in modern IT environments.
