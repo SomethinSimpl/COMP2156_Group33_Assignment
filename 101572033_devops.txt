@@ -5,3 +5,6 @@ theory, we actually work with Git and GitHub to understand how teams manage code
 In this course, we learned how to create branches, make commits, resolve merge conflicts, 
 and push changes to a remote repository. It shows how important communication 
 and organization are when multiple people are working on the same project.
+
+The course also introduces continuous integration tools like GitHub Actions, 
+which help automate tasks and improve workflow efficiency.
