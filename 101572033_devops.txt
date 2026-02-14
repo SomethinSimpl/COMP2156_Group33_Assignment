@@ -1,0 +1,3 @@
+COMP 2156 – DevOps for System Administration is a course that introduces students 
+to the practical side of version control and collaboration. Instead of just learning 
+theory, we actually work with Git and GitHub to understand how teams manage code.
