@@ -8,3 +8,5 @@ Using tools like Git and CI/CD pipelines allows teams to deploy updates more fre
 Learning DevOps is important because most modern companies rely on fast and stable software delivery. 
 Understanding how version control, automation, and teamwork fit into the SDLC makes someone 
 more prepared for real-world system administration or software development roles.
+
+In short, DevOps helps make the development process smoother, faster, and more efficient.
