@@ -1,0 +1,10 @@
+George Brown College
+Name: Clayton Megna
+Student ID: 101571315
+College: George Brown College
+Program: T191 Computer System Technician
+Campus: Casa Loma
+
+George Brown College is a public college located in Toronto, Ontario.
+It offers programs in technology, business, health sciences, and more.
+Hands-on learning and practical labs are a key part of many programs.
