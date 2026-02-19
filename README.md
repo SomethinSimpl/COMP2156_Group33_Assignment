@@ -4,13 +4,14 @@
 - Group: 33
 - Members:
   - Clayton Megna (101571315)
-  - Drew Scheller (101006790)
-  - Member 3: (StudentID)
+  - Eric Crowley: (101584030)
+  - Drew Scheller:(101006790)
   - Member 4: (StudentID)
 
 ## Branch Naming
 - STUDENTID-Name  
     - 101571315-ClaytonMegna
+    - 101584030-EricCrowley
     - 101006790-DrewScheller
 
 ## Requirements (Per Member)
