@@ -2,7 +2,7 @@ Software Development Life Cycle (SDLC)
 
 Student: Drew Scheller
 Student ID: 101006790
-COMP2156
+Course: COMP2156
 
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and deploy software systems.
 There are several stages including planning, analysis, design, implementation, testing, deployment, and maintenance.
