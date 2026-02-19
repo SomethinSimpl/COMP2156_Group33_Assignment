@@ -2,9 +2,12 @@ Software Development Life Cycle (SDLC)
 
 Student: Drew Scheller
 Student ID: 101006790
+COMP2156
 
 The Software Development Life Cycle (SDLC) is a structured process used to design, develop, test, and deploy software systems.
 There are several stages including planning, analysis, design, implementation, testing, deployment, and maintenance.
 SDLC helps teams organize their work, reduce errors, and ensure software meets user requirements.
 DevOps engineers play an important role in the SDLC by automating testing, integration, and deployment processes.
 This improves efficiency, reliability, and speed of software delivery.
+Using practices like CI and CD, teams can test changes automatically and deploy in a repeatable way.
+This makes it easier to catch issues earlier and keep systems stable after updates.
