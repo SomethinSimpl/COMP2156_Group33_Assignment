@@ -11,3 +11,5 @@ DevOps engineers play an important role in the SDLC by automating testing, integ
 This improves efficiency, reliability, and speed of software delivery.
 Using practices like CI and CD, teams can test changes automatically and deploy in a repeatable way.
 This makes it easier to catch issues earlier and keep systems stable after updates.
+SDLC practices also emphasize continuous improvement through monitoring and feedback.
+After deployment, teams collect user feedback and system performance data to guide future updates and improvements.
