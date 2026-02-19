@@ -4,7 +4,9 @@ Student: Drew Scheller
 Student ID: 101006790
 Course: COMP2156
 
-George Brown College is a public college located in Toronto, Ontario, Canada. 
-It offers a wide range of diploma, certificate, and postgraduate programs. 
-The college focuses on practical, hands on learning to help students prepare for real world careers. 
+George Brown College is a public college located in Toronto, Ontario, Canada.
 It has multiple campuses across Toronto and provides modern labs, experienced instructors, and industry relevant training.
+In addition to the Casa Loma campus, George Brown also operates the St. James and Waterfront campuses.
+Each campus specializes in different program areas such as technology, business, health sciences, hospitality, and design.
+It offers a wide range of diploma, certificate, and postgraduate programs.
+The college focuses on practical, hands on learning to help students prepare for real world careers.
