@@ -9,3 +9,5 @@ Version control allows developers to track changes, avoid conflicts, and collabo
 DevOps also includes Continuous Integration (CI) and Continuous Deployment (CD).
 Continuous Integration (CI) ensures that code changes are automatically tested whenever new code is pushed to the repository.
 This helps identify bugs early and keeps the main branch stable.
+Continuous Deployment (CD) extends Continuous Integration by automatically releasing tested code to production.
+Once all automated tests pass, the application can be deployed without manual intervention.
