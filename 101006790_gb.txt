@@ -2,6 +2,7 @@ George Brown College
 
 Student: Drew Scheller
 Student ID: 101006790
+Course: COMP2156
 
 George Brown College is a public college located in Toronto, Ontario, Canada. 
 It offers a wide range of diploma, certificate, and postgraduate programs. 
