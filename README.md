@@ -4,9 +4,9 @@
 - Group: 33
 - Members:
   - Clayton Megna (101571315)
-  - Member 2: (StudentID)
-  - Member 3: (StudentID)
-  - Member 4: (StudentID)
+  - Eric Crowley: (101584030)
+  - Drew Scheller: (101006790)
+  - Dan Dametto: (101572033)
 
 ## Branch Naming
 - STUDENTID-Name  
