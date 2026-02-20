@@ -5,13 +5,15 @@
 - Members:
   - Clayton Megna (101571315)
   - Eric Crowley: (101584030)
-  - Member 3: (StudentID)
-  - Member 4: (StudentID)
+  - Drew Scheller:(101006790)
+  - Dan Dametto:  (101572033)
 
 ## Branch Naming
 - STUDENTID-Name  
     - 101571315-ClaytonMegna
     - 101584030-EricCrowley
+    - 101006790-DrewScheller
+    - 101572033-DanDametto
 
 ## Requirements (Per Member)
 - Minimum 10 commits

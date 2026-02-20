@@ -1,0 +1,13 @@
+COMP2156 - DevOps
+Student: Drew Scheller
+Student ID: 101006790
+
+The COMP2156 DevOps course teaches important concepts used in modern software development. 
+DevOps combines development and IT operations to improve collaboration, efficiency, and software reliability. 
+In this course, students learn how to use Git and GitHub to manage code, create branches, and work on projects as a team.
+Version control allows developers to track changes, avoid conflicts, and collaborate safely.
+DevOps also includes Continuous Integration (CI) and Continuous Deployment (CD).
+Continuous Integration (CI) ensures that code changes are automatically tested whenever new code is pushed to the repository.
+This helps identify bugs early and keeps the main branch stable.
+Continuous Deployment (CD) extends Continuous Integration by automatically releasing tested code to production.
+Once all automated tests pass, the application can be deployed without manual intervention.
